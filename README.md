@@ -35,17 +35,6 @@ Currently: building domain-specific autonomous agents for finance and research w
 - **[bert-sentiment-analysis](https://github.com/TerminalGambit/bert-sentiment-analysis)** — Fine-tuned BERT for sentiment analysis using Hugging Face Transformers with custom training pipeline
 - **[tensorflow-cnn-image-classifier](https://github.com/TerminalGambit/tensorflow-cnn-image-classifier)** — CNN image classifier built from scratch with TensorFlow, covering architecture design through evaluation
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TerminalGambit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalGambit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=TerminalGambit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## Links
 
 [Portfolio](https://github.com/TerminalGambit/Portfolio) · [LinkedIn](https://www.linkedin.com/in/masseyjack/) · [LeetCode](https://leetcode.com/u/jackmassey)
