@@ -2,6 +2,8 @@
 
 AI/ML engineer building intelligent systems — from deep learning and NLP to autonomous AI agents.
 
+Currently focused on autonomous agents with LangGraph and RAG for real-world workflows. Background in CNN architectures, transformer fine-tuning, and production ML pipelines.
+
 ## Expertise
 
 <p>
@@ -23,6 +25,26 @@ AI/ML engineer building intelligent systems — from deep learning and NLP to au
   </a>
 </p>
 
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [ApexAgent](https://github.com/TerminalGambit/ApexAgent) | AI agent framework for autonomous decision-making |
+| [MarketMind](https://github.com/TerminalGambit/MarketMind) | ML-powered market sentiment and trend analysis |
+| [tensorflow-cnn-image-classifier](https://github.com/TerminalGambit/tensorflow-cnn-image-classifier) | CNN image classification from scratch with TensorFlow |
+| [bert-sentiment-analysis](https://github.com/TerminalGambit/bert-sentiment-analysis) | Fine-tuned BERT for sentiment analysis using Hugging Face |
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TerminalGambit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalGambit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TerminalGambit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ## Links
 
-[Portfolio](https://github.com/TerminalGambit/Portfolio) · [LeetCode](https://leetcode.com/u/jackmassey)
+[Portfolio](https://github.com/TerminalGambit/Portfolio) · [LinkedIn](https://www.linkedin.com/in/masseyjack/) · [LeetCode](https://leetcode.com/u/jackmassey)
