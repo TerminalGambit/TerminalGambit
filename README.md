@@ -4,11 +4,11 @@ AI/ML engineer building intelligent systems — from deep learning and NLP to au
 
 ## Expertise
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI/ML stack" />
-</picture>
+<p>
+  <a href="#expertise">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn&theme=dark" alt="AI/ML stack" />
+  </a>
+</p>
 
 **Deep Learning** · CNNs · Transformers · Fine-tuning · Transfer Learning
 **NLP & LLMs** · Hugging Face · BERT · Sentiment Analysis · Text Classification
@@ -17,11 +17,11 @@ AI/ML engineer building intelligent systems — from deep learning and NLP to au
 
 ## Also work with
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,typescript,c,cpp,rust,docker,git,linux&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,typescript,c,cpp,rust,docker,git,linux&theme=light" />
-  <img src="https://skillicons.dev/icons?i=java,typescript,c,cpp,rust,docker,git,linux&theme=dark" alt="Other tools" />
-</picture>
+<p>
+  <a href="#also-work-with">
+    <img src="https://skillicons.dev/icons?i=java,typescript,c,cpp,rust,docker,git,linux&theme=dark" alt="Other tools" />
+  </a>
+</p>
 
 ## Links
 
