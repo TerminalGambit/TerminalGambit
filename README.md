@@ -2,7 +2,10 @@
 
 AI/ML engineer building intelligent systems — from deep learning and NLP to autonomous AI agents.
 
-Currently focused on autonomous agents with LangGraph and RAG for real-world workflows. Background in CNN architectures, transformer fine-tuning, and production ML pipelines.
+- Built an agentic AI pipeline for F1 analytics with modular data extraction, modeling, and interactive dashboards
+- Designed an end-to-end quantitative finance platform with GNNs, 5 portfolio optimization algorithms, and NLP sentiment analysis
+
+Currently: building domain-specific autonomous agents for finance and research workflows.
 
 ## Expertise
 
@@ -12,10 +15,10 @@ Currently focused on autonomous agents with LangGraph and RAG for real-world wor
   </a>
 </p>
 
-**Deep Learning** · CNNs · Transformers · Fine-tuning · Transfer Learning
-**NLP & LLMs** · Hugging Face · BERT · Sentiment Analysis · Text Classification
-**Agentic AI** · LangChain · LangGraph · RAG · Tool Use · Autonomous Agents
-**Data** · Pandas · NumPy · Jupyter · Visualization
+- **Agentic AI** · LangChain · LangGraph · RAG · Tool Use · Autonomous Agents
+- **Deep Learning** · CNNs · Transformers · Fine-tuning · Transfer Learning
+- **NLP & LLMs** · Hugging Face · BERT · Sentiment Analysis · Text Classification
+- **Data & MLOps** · Pandas · NumPy · Jupyter · Docker · API Serving
 
 ## Also work with
 
@@ -25,14 +28,12 @@ Currently focused on autonomous agents with LangGraph and RAG for real-world wor
   </a>
 </p>
 
-## Featured Projects
+## Highlights
 
-| Project | Description |
-|---------|-------------|
-| [ApexAgent](https://github.com/TerminalGambit/ApexAgent) | AI agent framework for autonomous decision-making |
-| [MarketMind](https://github.com/TerminalGambit/MarketMind) | ML-powered market sentiment and trend analysis |
-| [tensorflow-cnn-image-classifier](https://github.com/TerminalGambit/tensorflow-cnn-image-classifier) | CNN image classification from scratch with TensorFlow |
-| [bert-sentiment-analysis](https://github.com/TerminalGambit/bert-sentiment-analysis) | Fine-tuned BERT for sentiment analysis using Hugging Face |
+- **[ApexAgent](https://github.com/TerminalGambit/ApexAgent)** — Multi-phase agentic AI system for F1 analytics: data pipeline → feature engineering → predictive modeling → interactive Flask dashboard, built on FastF1
+- **[MarketMind](https://github.com/TerminalGambit/MarketMind)** — Full quantitative finance platform with Graph Neural Networks, 5 optimization strategies (MVO, HRP, Black-Litterman, CVaR), NLP sentiment, and a 12-notebook learning path
+- **[bert-sentiment-analysis](https://github.com/TerminalGambit/bert-sentiment-analysis)** — Fine-tuned BERT for sentiment analysis using Hugging Face Transformers with custom training pipeline
+- **[tensorflow-cnn-image-classifier](https://github.com/TerminalGambit/tensorflow-cnn-image-classifier)** — CNN image classifier built from scratch with TensorFlow, covering architecture design through evaluation
 
 ## GitHub Stats
 
