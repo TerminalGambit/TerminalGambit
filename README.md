@@ -43,7 +43,7 @@ Currently: building domain-specific autonomous agents for finance and research w
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TerminalGambit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TerminalGambit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Links
