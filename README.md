@@ -1,17 +1,27 @@
 # Hey, I'm Jack
 
-AI/ML engineer building intelligent systems — from CNNs and NLP pipelines to autonomous trading agents.
+AI/ML engineer building intelligent systems — from deep learning and NLP to autonomous AI agents.
 
-## Featured Projects
+## Expertise
 
-- **[MarketMind](https://github.com/TerminalGambit/MarketMind)** — ML-powered market sentiment and trend analysis
-- **[ApexAgent](https://github.com/TerminalGambit/ApexAgent)** — AI agent framework for autonomous decision-making
-- **[tensorflow-cnn-image-classifier](https://github.com/TerminalGambit/tensorflow-cnn-image-classifier)** — CNN image classification from scratch with TensorFlow
-- **[bert-sentiment-analysis](https://github.com/TerminalGambit/bert-sentiment-analysis)** — Fine-tuned BERT for sentiment analysis using Hugging Face
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI/ML stack" />
+</picture>
 
-## Tech
+**Deep Learning** · CNNs · Transformers · Fine-tuning · Transfer Learning
+**NLP & LLMs** · Hugging Face · BERT · Sentiment Analysis · Text Classification
+**Agentic AI** · LangChain · LangGraph · RAG · Tool Use · Autonomous Agents
+**Data** · Pandas · NumPy · Jupyter · Visualization
 
-Python · TensorFlow · PyTorch · LangChain · Hugging Face · scikit-learn · Pandas · Java · TypeScript · C
+## Also work with
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,typescript,c,cpp,rust,docker,git,linux&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,typescript,c,cpp,rust,docker,git,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,c,cpp,rust,docker,git,linux&theme=dark" alt="Other tools" />
+</picture>
 
 ## Links
 
